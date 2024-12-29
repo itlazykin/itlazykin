@@ -20,8 +20,8 @@ Email: dlazykin856@gmail.com<br>
 
 -----------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itlazykin&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=itlazykin&hide=stars,prs,issues,contribs) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itlazykin)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itlazykin&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=itlazykin) <br>
