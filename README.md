@@ -10,7 +10,7 @@ Email: dlazykin856@gmail.com<br>
 <h3>Stack</h3> 
 
 **Java:** 8-17 SE, Java Core, OOP, SOLID, TDD, KISS, DRY <br>
-**db:** JDBC, PostgreSQL, Liquibase, H2 <br>
+**db:** JDBC, PostgreSQL, Liquibase, H2, Hibernate <br>
 **test:** JUnit 5, AssertJ, Mockito <br>
 **log:** Log4j, Slf4j <br>
 **build:** Maven <br>
