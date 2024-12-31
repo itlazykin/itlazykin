@@ -1,15 +1,15 @@
 <h3>Hello world!</h3> 
 
-My name is Denis<br>
+My name is Denis <br>
 I am learning Java on [Job4j](https://job4j.ru/) <br>
-Telegram: @slimdenchi<br>
-Email: dlazykin856@gmail.com<br>
+Telegram: @slimdenchi <br>
+Email: dlazykin856@gmail.com <br>
 
 -----------
 
 <h3>Stack</h3> 
 
-**Java:** 8-17 SE, Java Core, OOP, SOLID, TDD, KISS, DRY <br>
+**Java:** 8-17 SE, Java Core, OOP, TDD, KISS, DRY, SOLID <br>
 **db:** JDBC, PostgreSQL, Liquibase, H2, Hibernate <br>
 **test:** JUnit 5, AssertJ, Mockito <br>
 **log:** Log4j, Slf4j <br>
