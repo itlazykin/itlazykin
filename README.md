@@ -19,9 +19,5 @@ Email: dlazykin856@gmail.com<br>
 **OS:** Windows <br>
 
 -----------
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=itlazykin&hide=stars,prs,issues,contribs) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itlazykin&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=itlazykin) <br>
