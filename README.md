@@ -2,8 +2,7 @@
 
 My name is Denis <br>
 I am learning Java on [Job4j](https://job4j.ru/) <br>
-Telegram: @slimdenchi <br>
-Email: dlazykin856@gmail.com <br>
+How to reach me: [Telegram](https://t.me/slimdenchi), [Email](mailto:dlazykin856@gmail.com) <br>
 
 -----------
 
