@@ -9,6 +9,7 @@ How to reach me: [Telegram](https://t.me/slimdenchi), [Email](mailto:dlazykin856
 <h3>Stack</h3> 
 
 **Java:** 8-17 SE, Java Core, OOP, TDD, KISS, DRY, SOLID <br>
+**Continuous integration (CI)**: Jenkins, Travis CI (Codecov.io, JaCoCo), GitHub Action.
 **Spring base**: Spring Framework, Spring Core, Spring Boot <br>
 **web**: Spring WEB (Rest), Spring MVC, Lombok <br>
 **front layer**: Thymeleaf, js, Bootstrap <br>
