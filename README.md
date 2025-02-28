@@ -2,24 +2,20 @@
 
 My name is Denis <br>
 I am learning Java on [Job4j](https://job4j.ru/) <br>
-How to reach me: [Telegram](https://t.me/slimdenchi), [Email](mailto:dlazykin856@gmail.com) <br>
+How to reach me: [Email](mailto:dlazykin856@gmail.com) <br>
 
------------
-<h3>Stack</h3> 
-Java: 8-17 SE, Java Core, OOP, TDD, KISS, DRY, SOLID <br>
-Continuous integration (CI): Jenkins, Travis CI (Codecov.io, JaCoCo), GitHub Action. <br>
-Spring base: Spring Framework, Spring Core, Spring Boot <br>
-web: Spring WEB (Rest), Spring MVC, Lombok <br>
-front layer: Thymeleaf, js, Bootstrap <br>
-db: PostgreSQL, H2, <br>
-db layer: Spring Data JPA, Hibernate, HQL, JDBC, Liquibase <br>
-test: JUnit 5, AssertJ, Mockito <br>
-log: Log4j, Slf4j <br>
-build: Maven <br>
-utils: PgAdmin, Java Visual VM, Postman <br>
-other: Git, Jsoup, СheckStyle <br>
-OS: Windows <br>
-projects methods: Agile, Scrum, Kanban <br>
+### Social Links
+[<img height="48" src="https://img.icons8.com/color/64/telegram-app--v1.png" width="48"/>](https://t.me/slimdenchi) <br> 
+
+### 🛠️ Languages and Tools :
+<div>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>&nbsp;
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60"/>&nbsp;
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60"/>&nbsp;
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="60"/>&nbsp;
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="60"/>&nbsp;
+</div>
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=itlazykin&hide=stars) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itlazykin&layout=compact) <br>
