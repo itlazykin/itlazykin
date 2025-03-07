@@ -12,7 +12,6 @@ How to reach me: [Email](mailto:dlazykin856@gmail.com) <br>
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>&nbsp;
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60"/>&nbsp;
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60"/>&nbsp;
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="60"/>&nbsp;
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="60"/>&nbsp;
 </div>
 
