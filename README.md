@@ -1,8 +1,6 @@
 <h3>Hello world!</h3> 
 
 My name is Denis <br>
-I am learning Java on [Job4j](https://job4j.ru/) <br>
-How to reach me: [Email](mailto:dlazykin856@gmail.com) <br>
 
 ### Social Links
 [<img height="48" src="https://img.icons8.com/color/64/telegram-app--v1.png" width="48"/>](https://t.me/slimdenchi) <br> 
