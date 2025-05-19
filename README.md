@@ -1,6 +1,6 @@
 <h3>Hello world! My name is Denis.</h3> 
 
-### Social Links : [<img height="48" src="https://img.icons8.com/color/64/telegram-app--v1.png" width="48"/>](https://t.me/slimdenchi) <br> 
+### Social Links : [<img height="60" src="https://img.icons8.com/color/64/telegram-app--v1.png" width="48"/>](https://t.me/slimdenchi) <br> 
 
 ### 🛠️ Languages and Tools :
 <div>
